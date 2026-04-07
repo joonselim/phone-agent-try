@@ -4,6 +4,8 @@ Control your Android phone hands-free with natural language — powered by Claud
 
 A US-adapted fork of [DDalkkak](https://github.com/aristoapp/DDalkkak) by aristoapp, rebuilt for US-based services (Uber Eats, Amazon, etc.).
 
+<video src="uber_eats.mp4" controls width="600"></video>
+
 ---
 
 ## What it does
@@ -108,15 +110,3 @@ order a pizza from Domino's
 
 > Known restaurant names (KFC, McDonald's, Subway, etc.) bypass the Claude API entirely for faster execution.
 
----
-
-## Supported services
-
-| Category | App |
-|---|---|
-| Food delivery | Uber Eats, Baemin, Coupang Eats |
-| Shopping | Coupang, Naver Shopping |
-| Taxi | KakaoT |
-| Travel | Yanolja |
-| Reservation | Catchtable, Naver Reservation |
-| Gift | KakaoTalk Gift |
